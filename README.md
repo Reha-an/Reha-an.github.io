@@ -26,13 +26,7 @@
       border-radius: 5px;
   
     }
-    table{
-      border: #150404;
-      m
-    }
-    tr,td{
-      border: #150404;
-    }
+    
     
     .profile-image {
       display: block;
