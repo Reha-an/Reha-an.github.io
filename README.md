@@ -25,7 +25,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url("My Portfolio/—Pngtree—creative technology science fiction cyberpunk_9015394.png");
+    background-image: url("C:/Users/test/Desktop/My Portfolio/—Pngtree—creative technology science fiction cyberpunk_9015394.png");
     background-size: 550px;
     background-position: center;
     background-repeat: no-repeat;
