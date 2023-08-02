@@ -14,7 +14,7 @@ body {
 #header {
     width: 100%;
     height: 100vh;
-    background-image: url("C:/Users/test/Desktop/My Portfolio/—Pngtree—creative technology science fiction cyberpunk_9015394.png");
+    background-image: url("—Pngtree—creative technology science fiction cyberpunk_9015394.png");
     background-size: 550px;
     background-position: center;
     background-repeat: no-repeat;
@@ -383,7 +383,7 @@ nav .fas {
 /* ----------CSS FOR SMALL SCREEN---------- */
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url("C:/Users/test/Desktop/My Portfolio/—Pngtree—creative technology science fiction cyberpunk_9015394.png");
+        background-image: url("—Pngtree—creative technology science fiction cyberpunk_9015394.png");
     }
 
     .header-text {
@@ -422,7 +422,7 @@ nav .fas {
 
     /* Adjust the header image and text size for small screens */
     #header {
-        background-image: url("C:/Users/test/Desktop/My Portfolio/—Pngtree—creative technology science fiction cyberpunk_9015394.png");
+        background-image: url("—Pngtree—creative technology science fiction cyberpunk_9015394.png");
     }
 
     .header-text {
